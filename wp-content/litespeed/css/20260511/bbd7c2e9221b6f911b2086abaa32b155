@@ -1,6 +1,0 @@
-@font-face {
-  font-family: 'Meie Script';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/meiescript/v22/_LOImzDK7erRjhunIspaMgxg7oE.ttf) format('truetype');
-}
